@@ -56,7 +56,7 @@ jsonschema==4.26.0
 jsonschema-specifications==2025.9.1
 kubernetes==35.0.0
 langchain==0.2.12
-langchain-core==1.2.17
+langchain-core==0.2.35
 langfuse==2.60.0
 langgraph==1.0.10
 langgraph-checkpoint==4.0.1
