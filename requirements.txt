@@ -74,7 +74,7 @@ narwhals==2.17.0
 networkx==3.6.1
 nibabel==5.4.0
 nipype==1.11.0
-numpy==2.4.2
+numpy==1.26.4
 oauthlib==3.3.1
 onnxruntime==1.24.3
 openai==2.26.0
