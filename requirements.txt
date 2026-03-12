@@ -75,7 +75,7 @@ nibabel==5.4.0
 nipype==1.11.0
 numpy==2.4.2
 oauthlib==3.3.1
-onnxruntime==1.19.2
+onnxruntime==1.24.3
 openai==2.26.0
 opentelemetry-api==1.40.0
 opentelemetry-exporter-otlp-proto-common==1.40.0
